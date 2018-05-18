@@ -12,15 +12,11 @@ class LazyLoadingComponent extends React.Component{
 
     componentDidUpdate() {
         this.updateVisibility();
-        if(this.state.visible) {
-            console.log("component should display");
-        }
     }
 
 
     updateVisibility(){
         if(!this.state.visible && this.isComponentInViewPort()) {
-            console.log("Component visible");
             this.setState({visible: true});
         }
     }

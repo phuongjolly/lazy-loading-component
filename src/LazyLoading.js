@@ -10,32 +10,32 @@ class LazyLoading extends React.Component{
                 <ul>
                     <li>
                     <LazyLoadingComponent>
-                        <img src="https://www.w3schools.com/w3css/img_lights.jpg" alt='lazy-load'/>
+                        <img src="http://streaming1.danviet.vn/upload/2-2018/images/2018-04-01/1-1522590195-width500height333.jpg" alt='lazy-load'/>
                     </LazyLoadingComponent>
                     </li>
                     <li>
                         <LazyLoadingComponent>
-                            <img alt="test" src="https://www.gettyimages.ie/gi-resources/images/Homepage/Hero/UK/CMS_Creative_164657191_Kingfisher.jpg" />
+                            <img alt="test" src="https://kenh14cdn.com/2018/3/4/img2233-1520150367226920646658.jpg" />
                         </LazyLoadingComponent>
                     </li>
                     <li>
                         <LazyLoadingComponent>
-                            <img alt={"test"} src="https://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg?resize=640%2C426" />
+                            <img alt={"test"} src="http://2sao.vietnamnetjsc.vn//2015/12/24/07/21/jun-vu-duoc-hang-loat-trang-bao-trung-quoc-dua-tin-vi-qua-giong-angela-baby_6.jpg" />
                         </LazyLoadingComponent>
                     </li>
                     <li>
                         <LazyLoadingComponent>
-                            <img alt={"test"} src="https://wallpaperbrowse.com/media/images/beautiful-sunset-images-196063.jpg"/>
+                            <img alt={"test"} src="http://media.we25.vn/images/26952472_1713091282086303_4057977799851170173_o.jpg"/>
                         </LazyLoadingComponent>
                     </li>
                     <li>
                         <LazyLoadingComponent>
-                            <img alt={"test"} src="https://www.w3schools.com/w3css/img_lights.jpg"/>
+                            <img alt={"test"} src="http://img.yeah1.com/upload/news/24112015/1448346057_jun-3.jpg"/>
                         </LazyLoadingComponent>
                     </li>
                     <li>
                         <LazyLoadingComponent>
-                            <img alt={"test"} src="https://wallpaperbrowse.com/media/images/beautiful-sunset-images-196063.jpg" />
+                            <img alt={"test"} src="http://vietdaily.vn/wp-content/uploads/2018/03/Jun-Vu-7_preview-Copy.jpeg" />
                         </LazyLoadingComponent>
                     </li>
                 </ul>
